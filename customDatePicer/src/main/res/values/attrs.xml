@@ -28,4 +28,17 @@
         <!-- @hide The drawable for pressed virtual (increment/decrement) buttons. -->
         <attr name="virtualButtonPressedDrawable" format="reference"/>
     </declare-styleable>
+
+
+    <declare-styleable name="DatePicker">
+        <attr name="calendarMode" format="enum">
+            <enum name="lunarCalendar" value="1"/>
+            <enum name="commonCalendar" value="2"/>
+        </attr>
+        <!--yyyy/MM/dd-->
+        <attr name="minDate" format="string"/>
+        <attr name="maxDate" format="string"/>
+        <!--should contain three number pickers with ids: day, month, year-->
+        <attr name="pickerLayout" format="reference"/>
+    </declare-styleable>
 </resources>

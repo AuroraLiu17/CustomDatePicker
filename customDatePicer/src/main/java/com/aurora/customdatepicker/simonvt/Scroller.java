@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.lxh.customdatepicker.datepicker.simonvt;
+package com.aurora.customdatepicker.simonvt;
 
 import android.content.Context;
 import android.hardware.SensorManager;

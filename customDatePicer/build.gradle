@@ -17,8 +17,8 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "com.lxh.customdatepicker"
-        minSdkVersion 11
+        applicationId "com.aurora.customdatepicker"
+        minSdkVersion 14
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"

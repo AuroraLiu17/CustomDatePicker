@@ -1,4 +1,4 @@
-package com.lxh.customdatepicker;
+package com.aurora.customdatepicker;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

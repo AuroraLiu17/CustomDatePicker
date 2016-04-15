@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.lxh.customdatepicker.datepicker.simonvt;
+package com.aurora.customdatepicker.simonvt;
 
 import android.content.Context;
 import android.content.res.ColorStateList;
@@ -45,7 +45,7 @@ import android.view.animation.DecelerateInterpolator;
 import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.*;
-import com.lxh.customdatepicker.R;
+import com.aurora.customdatepicker.R;
 
 import java.text.DecimalFormatSymbols;
 import java.util.ArrayList;

@@ -18,7 +18,7 @@
 -->
 
 <merge xmlns:android="http://schemas.android.com/apk/res/android">
-    <view class="com.lxh.customdatepicker.datepicker.simonvt.NumberPicker$CustomEditText"
+    <view class="com.aurora.customdatepicker.simonvt.NumberPicker$CustomEditText"
           android:textAppearance="?android:attr/textAppearanceMedium"
           android:textColor="@color/theme"
           android:textSize="@dimen/date_picker_picker_text_size"

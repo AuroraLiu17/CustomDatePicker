@@ -11,4 +11,6 @@
     <dimen name="date_picker_segment_radius">4dp</dimen>
     <dimen name="date_picker_segment_item_width">60dp</dimen>
     <dimen name="date_picker_segment_item_height">25dp</dimen>
+    <dimen name="date_picker_bottom_btn_height">49dp</dimen>
+    <dimen name="date_picker_bottom_btn_text_size">18dp</dimen>
 </resources>
