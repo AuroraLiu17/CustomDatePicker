@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="number_picker_item_height">30dp</dimen>
+
+    <!-- Date picker dialog -->
+    <dimen name="date_picker_title_top_margin">14dp</dimen>
+    <dimen name="date_picker_title_text_size">18dp</dimen>
+    <dimen name="date_picker_picker_text_size">18dp</dimen>
+    <dimen name="date_picker_vertical_margin">20dp</dimen>
+    <dimen name="date_picker_segment_item_text_size">14dp</dimen>
+    <dimen name="date_picker_segment_radius">4dp</dimen>
+    <dimen name="date_picker_segment_item_width">60dp</dimen>
+    <dimen name="date_picker_segment_item_height">25dp</dimen>
+</resources>

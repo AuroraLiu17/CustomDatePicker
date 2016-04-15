@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="NPWidget">
+        <item name="android:textAppearance">?android:attr/textAppearance</item>
+    </style>
+
+    <style name="NPWidget.NumberPicker">
+        <item name="android:orientation">vertical</item>
+        <item name="android:fadingEdge">vertical</item>
+        <item name="android:fadingEdgeLength">@dimen/number_picker_item_height</item>
+        <item name="solidColor">@android:color/transparent</item>
+        <item name="selectionDivider">@color/transparent</item>
+        <item name="selectionDividerHeight">0dip</item>
+        <item name="selectionDividersDistance">@dimen/number_picker_item_height</item>
+        <item name="internalLayout">@layout/number_picker_with_selector_wheel</item>
+        <item name="internalMinWidth">80dip</item>
+        <item name="internalMaxHeight">108dip</item>
+        <item name="virtualButtonPressedDrawable">@drawable/item_background_holo_light</item>
+        <item name="inputTextEditable">false</item>
+    </style>
+</resources>
